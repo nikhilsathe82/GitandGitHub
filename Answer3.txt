@@ -1,0 +1,9 @@
+Answer 3
+
+.gitignore and its importance in version control
+
+.gitigore allows you to ignore certain files from your source working tree from being tracked. When you mention the names
+of the files to .gitignore then content of these files is not finally stored in the repository. .gitignore is essential 
+part of version control in the sense that you can stop your sensitive or critical data like API keys or environment variables
+to get pushed to the repository which can be later seen by everyone. If someone else gets access to such sensitive data
+they can easily access your resources which can seriously jeopardize the integrity of your source code.

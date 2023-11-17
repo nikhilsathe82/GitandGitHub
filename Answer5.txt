@@ -1,0 +1,33 @@
+Answer5
+
+Contributing to open source projects is a great way to enhance your 
+coding knowledge as well as contribute to various open source projects which
+we use on regular basis. The process of contributing to any open-source project on GitHub in
+a step-by-step manner is as follows:
+
+1. Fork the desired project
+You need to fork the desired project on which you want to work as following this step will first create a copy 
+of the project on your Github account. This ensure that you can make a changes to this forked copy without tampering
+the original project.
+
+2. Clone the project repository
+Once you fork a project, you need to clone this into your local machine so that you can work on this new project.
+You can directly download the zip file from Github or use clone command to clone the project.
+
+3. Creating a new Branch
+You need to create a new branch to carry out your own development on the cloned project. You can use the checkout 
+command to create a new branch and checkout it.
+
+4. Make changes to the code
+You can make changes to the code by adding new functionalities to the source code. Once you are done making changes,
+you need to add the changes in the staging area and then commit the changes to the repository. you can use 'git add .' and 
+'git commit -m "msg"' command to stage and commit the changes.
+
+5. Push the project
+Once you make changes in the code, these new changes reside in your local repository. You need to push these changes
+to the forked repository on Github. You can use the 'git push' command to push these changes to your Github repository.
+
+6. Creating a pull request
+Once the pushing of code is successful, you need to create a pull request to upload the changes made by you to the main
+project code and send the code for review by repository maintainers. You need to click on 'Compare and pull request' to 
+upload the code to the main original repository. 

@@ -1,0 +1,19 @@
+GIT Workflow - working directory,staging area, and repository
+
+Git workflow is normally divided into three areas as described below:
+
+1.Working Directory or Working Tree - The working directory is the area where all of your source dode is stored like
+in your local directory. The working directory are the files which are not tracked by the Git. In other words it is the 
+original source code saved in folders and files. If you make changes in this code that is not saved in the git,
+then you cannot go back to the earlier version of the code to which you made changes. git status is the command to know 
+about files in your working directory.
+
+2. Staging Area -- This is the area where Git starts to track, listen and save the changes done to the source code. It is also  
+referred as Index. When you tell Git to track the changes being done to the source code, the files in the working directory
+are moved to the Staging Area or holding area you can say. However, if you further make changes to the original source code,
+Git will not automatically come to know about these changes and it needs to be explicitly informed to track the new 
+changes that are made. git add <filename> or git add . is the command to move files from working directory to staging area.
+
+3. Repository: The local repository is where all of the files in the staging area gets 'committed' or saved. When you give 
+command to Git to commit the changes, it moves the files till that point from staging area and saves in the repository. Once the
+files are stored in Repository, the staging area is empty.

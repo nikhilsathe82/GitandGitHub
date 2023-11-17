@@ -1,0 +1,24 @@
+Git and Github
+
+Answer 1.
+Version Control is the practice of managing and tracking the changes done in the source code using various tools.
+Through Version Control, you can efficiently track and see who made the changes to the code at what point of time. 
+Version controlling makes it easy for you to roll back to a previous version of the software from the current version.
+With this functionality, developers are free to try out new changes in the existing code without fearing that it 
+might damage the original code. If anything goes wrong, they are assured that they easily roll back to previous version 
+that is stable and working.
+
+Importance in software development
+1. Maintaining complete history of changes: Version controlling ensure that all the changes like deletion, insertion, and edits made to the source code
+are properly maintained for detailed audit. Maintaining history helps in bug tracking or root cause analysis. 
+
+2. New features in branches of software: Version controlling provides you with facility to create a 'branch' on which
+they can develop new features. They can build new features on this branch without altering or modifying the main source code
+thus significantly reducing the risks of tampering with the original source code. Once the new feature is developed and
+finalized by the project manager, the new branch is merged with the main branch thereby introducing the new functionality 
+in the software. The ability to create branch ensures efficient team collaboration and avoid conflicts.
+
+3. Share Code Easily With Others: Integrating the power of version control with services like Github can ensure that you store and 
+manage the sources code at remote repository and share with developers sitting at any places across the globe. All developers
+can access latest version of the code at the same time without any delay.
+

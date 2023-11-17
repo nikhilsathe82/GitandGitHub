@@ -1,0 +1,18 @@
+Answer 4
+
+GitHub is a online code repository platform that facilitates version control. It allows you to collaborate with developers
+sitting in any corner of the globe and makes it easy to share latest version of the code with them. It facilitates copying, 
+merging, and contributing to the source code from multiple developers.
+
+Github facilitates collaboration in following ways:
+Version Control: You can store your source code on Github and efficiently track the complete history when you have
+committed your source code.
+
+Sharing Code: You can easily share code with anyone sitting in any corner of the world easily and efficiently.
+
+Contribute to the Code: Github makes it easy to contribute to any open source or private repositories through forking and pull 
+requests as anyone can download, make changes and revert back with changes.
+
+Find new repositories: You can easily find new repositories with exciting projects and its source code easily.
+
+Some alternative to Github are GitLab and BitBucket.
